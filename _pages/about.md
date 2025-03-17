@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year undergraduate student from [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes computer vision
+I am a first-year Ph.D. student at Tsinghua Shenzhen International Graduate School. My research interests include computer vision, large model inference, and cross-modal learning. I am dedicated to efficient large-scale model design and inference optimization, with a focus on deploying vision models in resource-constrained environments.
+
 
 [Email](jie-wanng24@mails.tsinghua.edu.cn) / [Github](https://github.com/JieWang24)
